@@ -12,7 +12,7 @@
 ## DESCRIÇÃO
 Protótipo de cofre simples que utiliza um jogo de adivinhação inspirado em "Mastermind" de Mordechai Meirowitz para liberação do conteúdo.
 ### Protótipo no TinkerCAD
-https://www.tinkercad.com/things/kUmZg0zzGkq-cofre-mastermind/editel?sharecode=9QcAN3dYKUFqtxiErYV3pikx3eGBBI4lRCc2Gd2qINs
+[Circuito e funcionamento no Tinkercad](https://www.tinkercad.com/things/kUmZg0zzGkq-cofre-mastermind/editel?sharecode=9QcAN3dYKUFqtxiErYV3pikx3eGBBI4lRCc2Gd2qINs)
 
 ## MATERIAIS
 <div align = "left">
